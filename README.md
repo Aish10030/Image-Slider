@@ -16,3 +16,5 @@ This project is an image slider that allows users to navigate through a collecti
 3. **JavaScript:** Implements the slider functionality, including navigation, automatic transitions, and event handling.
    
 **Live Demo**
+
+https://aish10030.github.io/Image-Slider/
